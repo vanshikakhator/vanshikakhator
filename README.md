@@ -21,6 +21,5 @@
 ---
 
 ### 📫 Connect with me  
-(https://img.shields.io/badge/LinkedIn-Vanshika%20Khator-blue?style=flat-square&logo=linkedin)] (https://img.shields.io/badge/GitHub-vanshikakhator-black?style=flat-square&logo=github)] 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanshika%20Khator-blue?style=flat-square&logo=linkedin)] [![GitHub](https://img.shields.io/badge/GitHub-vanshikakhator-black?style=flat-square&logo=github)]
 😄 **Pronouns:** She/Her  
